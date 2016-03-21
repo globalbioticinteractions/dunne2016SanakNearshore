@@ -1,0 +1,16 @@
+{ "citation": "Manually extracted from Supplementary Data S1 in Dunne, J. A., Maschner, H., Betts, M. W., Huntly, N., Russell, R., Williams, R. J., & Wood, S. A. (2016). The roles and impacts of human hunter-gatherers in North Pacific marine food webs. Scientific Reports, 6, 21179. doi:10.1038/srep21179",
+  "doi": "http://dx.doi.org/10.1038/srep21179",
+  "format": "dunne",
+  "resources": {
+    "nodes": "https://raw.githubusercontent.com/globalbioticinteractions/dunne2016SanakNearshore/master/nodes.tsv",
+    "links": "https://raw.githubusercontent.com/globalbioticinteractions/dunne2016SanakNearshore/master/links.tsv"
+  },
+  "location": {
+    "locality": {
+      "id": "GEONAMES:5873327",
+      "name": "Sanak Island, Alaska, USA"
+    },
+    "latitude": 54.42972,
+    "longitude": -162.70889
+  }
+}
