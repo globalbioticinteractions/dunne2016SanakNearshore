@@ -2,8 +2,8 @@
   "doi": "http://dx.doi.org/10.1038/srep21179",
   "format": "dunne",
   "resources": {
-    "nodes": "https://raw.githubusercontent.com/globalbioticinteractions/dunne2016SanakNearshore/master/nodes.tsv",
-    "links": "https://raw.githubusercontent.com/globalbioticinteractions/dunne2016SanakNearshore/master/links.tsv"
+    "nodes": "nodes.tsv",
+    "links": "links.tsv"
   },
   "location": {
     "locality": {
